@@ -1,0 +1,3 @@
+﻿  Blackjack.cpp
+C:\Repositories\Blackjack\Educaation\Blackjack.cpp(341,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Educaation.vcxproj -> C:\Repositories\Blackjack\x64\Debug\Educaation.exe
